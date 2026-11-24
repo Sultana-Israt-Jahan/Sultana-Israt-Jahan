@@ -1,6 +1,6 @@
 # Hi, I'm Sultana Israt Jahan
 
-HR professional from Chattogram, Bangladesh, with a research background in biotechnology and genetic engineering. I am building practical HR tools that use data and AI.
+HR professional from Chattogram, Bangladesh, with a research background in Biotechnology and Genetic Engineering. I am building practical HR tools that use data and AI.
 
 ## Now
 
@@ -16,7 +16,7 @@ HR professional from Chattogram, Bangladesh, with a research background in biote
 
 ## Skills
 
-HR analytics · training and development · Power BI · Python (learning) · Excel · documentation and audit files · bioinformatics software
+HR analytics · training and development · Power BI · Python (learning) · Excel · documentation · bioinformatics software
 
 ## Projects
 
